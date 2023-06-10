@@ -1,2 +1,2 @@
-# Data Science and Machine Learning bootcamp projects
-This repository will be used to upload all my projects of the machine learning an data science bootcamp (a course I took on Udemy)
+# machine learning projects with python
+This repository will be used to upload different machine learning projects, using python as the programming language...
